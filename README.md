@@ -9,3 +9,6 @@ Background Generator is a mini project, which is made with HTML, CSS, and JS.
 <p align="center">
   <img src="https://github.com/zaheerniazipk/Background-Generator/blob/main/Cover.png">
 </p>
+
+
+[Live Demo](https://background-generator-lac.vercel.app/)
